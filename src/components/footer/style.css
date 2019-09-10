@@ -1,0 +1,10 @@
+@charset "utf8";
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #707070;
+    font-weight: bold;
+    margin: 50px;
+    margin-left: 30%;
+    font-size: 14pt;
+}
